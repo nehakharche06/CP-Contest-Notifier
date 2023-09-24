@@ -1,4 +1,4 @@
-# Contest calender
+# CP Contest Notifier
 #### This is a Chrome Extension that provides information about all upcoming Competitive programming contests across various coding platforms.
 #### While tracking contests it enables the user to practice a randomly generated LeetCode question to brush up on Data science algorithms.
 
@@ -17,12 +17,6 @@ To help the users brush up on the Data science algorithms, a Leetcode random fea
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![D3](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-## Test Chrome Extension
-
-To test, go to chrome://extensions, enable Developer mode and load the app as an unpacked extension.
-
-Need more information about Chrome Extension? Please visit [Google Chrome Extension Development](http://developer.chrome.com/extensions/devguide.html)
 
 
 ## D3 documentation
